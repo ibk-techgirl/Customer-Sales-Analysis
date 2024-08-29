@@ -4,7 +4,10 @@
 
 This dashboard offers an in-depth view of the key sales metrics and customer demographics for your business. By analyzing these metrics, stakeholders can gain valuable insights into customer behavior, identify trends, and make data-driven decisions to improve overall performance.
 
-![Sales-Customer Dashboard](path_to_your_image.png)
+[![View Sales Customer Dashboard](https://img.shields.io/badge/View-Dashboard-brightgreen)](https://drive.google.com/file/d/11FXK_6iswGITnlVz6LZtRSxDj531b6E5/view?usp=sharing)
+
+Click the button above to view the Sales-Customer Dashboard.
+
 
 ## Key Metrics
 
